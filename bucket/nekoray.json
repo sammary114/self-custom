@@ -12,11 +12,11 @@
     "extract_dir": "nekoray",
     "bin": [
         "nekobox_core.exe",
-        "nekobox.exe"
+        "nekoray.exe"
     ],
     "shortcuts": [
         [
-            "nekobox.exe",
+            "nekoray.exe",
             "Nekoray"
         ]
     ],
