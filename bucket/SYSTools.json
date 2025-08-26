@@ -1,0 +1,27 @@
+{
+    "version": "0.7.7",
+    "description": "A SYSTools developed by iNKORE.UI.WPF.Modern.",
+    "homepage": "https://github.com/Hikarisame-Technology/SYSTools",
+    "license": "MPL-2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Hikarisame-Technology/SYSTools/releases/download/0.7.7/SYSTools.zip",
+            "hash": "73c39c5fd582ddf8fc67b2ca4a2f383718a0f6cf0f5e705d27289a39430ad8e5"
+        }
+    },
+    "shortcuts": [
+        [
+            "SYSTools.exe",
+            "SYSTools"
+        ]
+    ],
+    "persist": "data",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/Hikarisame-Technology/SYSTools/releases/download/v$version/SYSTools.zip"
+            }
+        }
+    }
+}
