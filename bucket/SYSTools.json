@@ -5,7 +5,7 @@
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Hikarisame-Technology/SYSTools/releases/download/0.7.7/SYSTools.zip",
+            "url": "https://github.com/Hikarisame-Technology/SYSTools/releases/download/v0.7.7/SYSTools.zip",
             "hash": "73c39c5fd582ddf8fc67b2ca4a2f383718a0f6cf0f5e705d27289a39430ad8e5"
         }
     },
