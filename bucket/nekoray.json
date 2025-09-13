@@ -9,7 +9,7 @@
             "hash": "7e34727f1ec6e098249d751cb3c7d29eb118af3d9d975f6bbc44c96f03a95708"
         }
     },
-    "extract_dir": "nekoray",
+    "extract_dir": "Throne",
     "bin": [
         "Core.exe",
         "Throne.exe"
@@ -26,7 +26,7 @@
         "architecture": {
             "64bit": {
                 "url": "https://github.com/throneproj/Throne/releases/download/$version/Throne-$version-windows64.zip",
-                "extract_dir": "nekoray"
+                "extract_dir": "Throne"
             }
         }
     }
